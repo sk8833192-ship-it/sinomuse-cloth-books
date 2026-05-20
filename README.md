@@ -23,3 +23,6 @@ All SINOMUSE products meet or exceed:
 - CPSIA (Consumer Product Safety Improvement Act)
 - ASTM F963 (Standard Consumer Safety Specification for Toy Safety)
 - EN71 (European Toy Safety Standard)
+
+## License
+MIT
